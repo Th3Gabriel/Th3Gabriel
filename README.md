@@ -3,12 +3,12 @@
   -👨🏿‍💻Hoje trabalho na Polícia Civil do Estado de Goiás, como Dev front-end <br/>
   -👨🏿‍💻No momento estou estudando: PHP
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/Th3Gabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th3Gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Gabriel&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
-  
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
