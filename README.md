@@ -1,7 +1,8 @@
 # 👨🏿‍💻 OLA MEU NOME É GABRIEL,SOU UM DEV APRENDIZ EM FRONT-END E BANCO DE DADOS
 
   -👨🏿‍💻Hoje trabalho na Polícia Civil do Estado de Goiás, como Dev front-end <br/>
-  -👨🏿‍💻No momento estou estudando: PHP
+  -👨🏿‍💻No momento estou estudando: PHP <br/>
+  -👨19 Anos| Brasil
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Th3Gabriel">
