@@ -1,4 +1,4 @@
-# 👨🏿‍💻 OLA MEU NOME É GABRIEL,SOU UM DEV APRENDIZ EM FRONT-END E BANCO DE DADOS
+# 👨🏿‍💻 OLA MEU NOME É GABRIEL,SOU UM DEV APRENDIZ EM FRONT-END NA JORNADA DO FULLSTACK
 
   -👨🏿‍💻Hoje trabalho na Polícia Civil do Estado de Goiás, como Dev front-end <br/>
   -👨🏿‍💻No momento estou estudando: PHP <br/>
