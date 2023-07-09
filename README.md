@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Th3Gabriel&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=B0C4DE&bg_color=191970" alt="Caroline Barbosa github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Gabriel&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=191970" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Th3Gabriel&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=B0C4DE&bg_color=191970" alt="Caroline Barbosa github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Gabriel&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=191970" />
 </div>
 
 
