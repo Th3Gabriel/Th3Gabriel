@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Sicoob Unicentro Br <br>👯 I’m looking to collaborate Projetos on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭Procurando uma vaga júnior nas áreas de Front-end/FullStack/Software Engineer; <br>
+📕 Atualmente estudando JavaScript/React;
+📧 Contato: gabrielmartins1955@hotmail.com;
 
 
 ## 🌐 Socials:
