@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭Procurando uma vaga júnior nas áreas de Front-end/FullStack/Software Engineer; <br>
-📕 Atualmente estudando JavaScript/React;
-📧 Contato: gabrielmartins1955@hotmail.com;
+📕 Atualmente estudando JavaScript/React;<br>
+📧 Contato: gabrielmartins1955@hotmail.com;<br>
 
 
 ## 🌐 Socials:
