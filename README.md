@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭Procurando uma vaga júnior nas áreas de Front-end/FullStack/Software Engineer; <br>
-📕 Atualmente estudando JavaScript/React;<br>
+📕 Atualmente estudando React/TypeScript;<br>
 📧 Contato: gabrielmartins1955@hotmail.com;<br>
-
+Portifolio: <a href="https://port-gabrielm.vercel.app/"> Acessar Portifolio </a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@gabriel_mrsp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabriel-martins-paz-317561142) 
